@@ -1,0 +1,14 @@
+node_modules
+.parcel-cache
+**/dist/index.js
+**/.idea
+**/cdk/cdk.out
+**/cdk/**/*.js
+**/cdk/**/*.d.ts
+**/.spago
+**/output
+**/.purs-repl
+**/.ammonite
+**/.metals
+**/.vscode
+.psc-ide-port
